@@ -6,20 +6,20 @@ I have been working professionally for at least 5 years. Only recently started u
 
 My past works:
 
-- [Marutama Ramen](https://marutama.com.sg)
-Stacks: Laravel PHP Framework, SASS
+- [Marutama Ramen](https://marutama.com.sg) <br />
+Stacks: Laravel PHP Framework, SASS, JavaScript <br />
 This website has CMS to display News, Menu, Shop and Reservation availability.
 
 - [At Twenty](https://attwenty.sg)
-Stacks: PHP, SASS, GSAP (GreenSock)
-Showcasing animation with GreenSock plugin.  
-While no framework is used, this project used module packing to transpile SASS and basic HTML templating.
+Stacks: PHP, SASS, JavaScript, GSAP (GreenSock) <br />
+Showcasing animation with GreenSock javascript plugin. <br />
+While no framework is used, this project used GULP packing to transpile SASS and basic HTML templating.
 
 
 Personal:
 
-- [Cafe Employee]()
-Stacks: React with Redux and Router, Node, Docker
+- [Cafe Employee](https://github.com/welsontn/cafe-employee) <br />
+Stacks: React with Redux and Router, Node, Docker <br />
 Current project used to learn step-by-step as I slowly add more commonly used stacks like Redux and Router.
 
 
