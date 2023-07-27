@@ -10,10 +10,14 @@ My past works:
 Stacks: Laravel PHP Framework, SASS, JavaScript <br />
 This website has CMS to display News, Menu, Shop and Reservation availability.
 
-- [At Twenty](https://attwenty.sg)
+- [At Twenty](https://attwenty.sg) <br />
 Stacks: PHP, SASS, JavaScript, GSAP (GreenSock) <br />
 Showcasing animation with GreenSock javascript plugin. <br />
 While no framework is used, this project used GULP packing to transpile SASS and basic HTML templating.
+
+- [TOHO Singapore](https://to-ho.com.sg) <br />
+Stacks: PHP, SASS, JavaScript, VueJS <br />
+Company website with CMS for News and Products. VueJS is used under [PRODUCTS](https://to-ho.com.sg/ja/products) page. <br />
 
 
 Personal:
