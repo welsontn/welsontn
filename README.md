@@ -2,9 +2,9 @@
 
 I will be using this page to list my past professional works (no public repo) and repository that I feel worth sharing.
 
-I have been working professionally for at least 5 years. Only recently started using GitHub to put my personal projects.
+I have been working professionally as Software Developer for at least 5 years. Only recently started using GitHub to put my personal projects.
 
-My past works:
+My past works (just listing that I feel worth checking out):
 
 - [Marutama Ramen](https://marutama.com.sg) <br />
 Stacks: Laravel PHP Framework, SASS, JavaScript <br />
