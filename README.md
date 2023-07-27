@@ -2,7 +2,7 @@
 
 I will be using this page to list my past professional works (no public repo) and repository that I feel worth sharing.
 
-I have been working professionally as developer for at least 5 years. I have only recently started using GitHub to put my personal projects.
+I have been working professionally for at least 5 years. Only recently started using GitHub to put my personal projects.
 
 My past works:
 
