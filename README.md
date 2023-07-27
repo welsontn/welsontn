@@ -12,8 +12,7 @@ This website has CMS to display News, Menu, Shop and Reservation availability.
 
 - [At Twenty](https://attwenty.sg) <br />
 Stacks: PHP, SASS, JavaScript, GSAP (GreenSock) <br />
-Showcasing animation with GreenSock javascript plugin. <br />
-While no framework is used, this project used GULP packing to transpile SASS and basic HTML templating.
+Showcasing animation with GreenSock javascript plugin.
 
 - [TOHO Singapore](https://to-ho.com.sg) <br />
 Stacks: PHP, SASS, JavaScript, VueJS <br />
